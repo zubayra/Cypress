@@ -21,7 +21,7 @@ var student = {
     }
 
 }
-
+ 
 const ageValue = student.age
 
 console.log(ageValue)
